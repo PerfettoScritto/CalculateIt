@@ -1,6 +1,6 @@
 ![Calculate It](source/icon_48.png)   **Calculate It**
 
-Calculate It is a Chrome extension, which will allows you to download high quality photos from Instagram. Now you'll be able to save amazing, interesting and inspirational photos to your computer without using online services. Just use Calculate It.
+Calculate It is a Chrome extension.
 
 ###### How to use it:
 
