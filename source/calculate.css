@@ -1,0 +1,77 @@
+#wrap {
+    position: fixed;
+    top: 100px;
+    left: 40%;
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 60px;
+    z-index: 1000000;
+    display: none;
+}
+
+table {
+    border: none !important;
+}
+
+td,
+th {
+    border: none !important;
+    padding: 0 !important;
+}
+
+
+.tblCalc {
+    border-radius: 10px !important;
+    height: 210px !important;
+    text-align: center !important;
+    border-collapse: collapse !important;
+    background-color: orange !important;
+}
+
+.tblCalc input {
+    border: 1px solid #A66C00 !important;
+    width: 45px !important;
+    height: 30px !important;
+    margin-top: 0px !important;
+    margin: 2px !important;
+    background-color: white !important;
+    border-radius: 5px !important;
+    font-family: Arial !important;
+    font-size: 12.5px !important;
+    color: black !important;
+    box-shadow: none !important;
+}
+
+
+
+.tblCalc input:hover {
+    box-shadow: 0 0 5px white !important;
+    -moz-box-shadow: 0 0 5px white !important;
+    -ms- box-shadow: 0 0 5px white !important;
+    -webkit-box-shadow: 0 0 5px white !important;
+    -o-box-shadow: 0 0 5px white !important;
+    font-size: 12px !important;
+}
+
+#editWide {
+    width: 241px !important;
+    font-size: 14px !important;
+    cursor: default !important;
+    text-align: right !important;
+    padding-right: 10px !important;
+    margin-top: 3px !important;
+    height: 28px !important;
+}
+
+.nameOfCalculator {
+    font-family: 'Playfair Display SC', serif !important;
+    font-size: 18px !important;
+    color: white !important;
+    cursor: default !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.tblCalc input:focus {
+    outline: none !important;
+}
