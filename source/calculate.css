@@ -47,7 +47,7 @@ th {
 .tblCalc input:hover {
     box-shadow: 0 0 5px white !important;
     -moz-box-shadow: 0 0 5px white !important;
-    -ms- box-shadow: 0 0 5px white !important;
+    -ms-box-shadow: 0 0 5px white !important;
     -webkit-box-shadow: 0 0 5px white !important;
     -o-box-shadow: 0 0 5px white !important;
     font-size: 12px !important;
