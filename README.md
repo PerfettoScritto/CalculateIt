@@ -1,6 +1,6 @@
 ![Calculate It](source/icon_48.png)   **Calculate It**
 
-"Calculate It" is a simple math calculator for your Google Chrome Browser. Just load unpacked extension (read  instruction "How to use it" below) and press buttons "c" + "i" to show/hide calculator on any webpage(after webpage will be loaded).
+"Calculate It" is a simple math calculator for your Google Chrome Browser. Just load unpacked extension (read  instruction "How to use it" below) and press buttons "c" + "i" to show/hide calculator on any webpage (after webpage will be loaded).
 
 ###### How to use it:
 
